@@ -1,4 +1,11 @@
 
 #name {
 	color: blue;
+	font-style: italic;
+}
+
+div, #rule {
+	color: green;
+	font-size: 20px;
+	font-style: italic;
 }
