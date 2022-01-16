@@ -8,4 +8,6 @@ div, #rule {
 	color: green;
 	font-size: 20px;
 	font-style: italic;
+	text-align: center;
+	opacity: .6;
 }
